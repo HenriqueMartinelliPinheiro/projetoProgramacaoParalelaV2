@@ -1,9 +1,11 @@
-[] Fazer o produtor buscar o resultado no final.
+[X] Fazer o produtor buscar o resultado no final.
 
-[] Vê se ele estar usando json 
+[] Vê se ele estar usando json
 
-[] Quando acabar os ingressos enviar as respostas para os clientes que está tudo vendido. 
+[X] Quando acabar os ingressos enviar as respostas para os clientes que está tudo vendido.
 
-[] - Ver se cada Thread de processamento tem sua própria fila
+[X] Ver se cada Thread de processamento tem sua própria fila
 
-[] - Fazer uma documentação
+[X] Tirar as variaveis e listas globais
+
+[] Fazer escalonamento dos processadores
